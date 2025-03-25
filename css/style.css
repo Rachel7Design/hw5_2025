@@ -124,7 +124,7 @@ div.gallery {
         flex-direction: row;
 
     }
-}
+
 
 /* Edit the css for the pricing and card classes to match our example. Part of achieving this is by using a flex-property to specify a “size” of 275px. Notice that the elements do not have the same height, but do have the same width. */
 
@@ -148,7 +148,7 @@ div.gallery {
         position: sticky;
         top: 0;
     }
-
+}
 
 /* The following specifications are for when the user prefers reduced motion.  
 The logo should appear but not be animated if prefers-reduced-motion is selected in the accessibility preferences. */
@@ -173,7 +173,7 @@ The logo should appear but not be animated if prefers-reduced-motion is selected
         font-family: Arial, Helvetica;
 }
  
-removed 
+
     background-image {
         display: none;
     }
